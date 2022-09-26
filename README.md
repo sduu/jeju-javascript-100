@@ -16,35 +16,35 @@
     </thead>
     <tbody>
         <tr align="center">
-            <td width="80px"><a>1</a></td>
-            <td width="80px"><a>2</a></td>
-            <td width="80px"><a>3</a></td>
-            <td width="80px"><a>4</a></td>
-            <td width="80px"><a>5</a></td>
-            <td width="80px"><a>6</a></td>
-            <td width="80px"><a>7</a></td>
-            <td width="80px"><a>8</a></td>
-            <td width="80px"><a>9</a></td>
-            <td width="80px"><a>10</a></td>
+            <td width="80px"><a href="./part1/1.js">1</a></td>
+            <td width="80px"><a href="./part1/2.js">2</a></td>
+            <td width="80px"><a href="./part1/3.js">3</a></td>
+            <td width="80px"><a href="./part1/4.js">4</a></td>
+            <td width="80px"><a href="./part1/5.js">5</a></td>
+            <td width="80px"><a href="./part1/6.js">6</a></td>
+            <td width="80px"><a href="./part1/7.js">7</a></td>
+            <td width="80px"><a href="./part1/8.js">8</a></td>
+            <td width="80px"><a href="./part1/9.js">9</a></td>
+            <td width="80px"><a href="./part1/10.js">10</a></td>
         </tr>
         <tr align="center">
-            <td><a>11</a></td>
-            <td><a>12</a></td>
-            <td><a>13</a></td>
-            <td><a>14</a></td>
-            <td><a>15</a></td>
-            <td><a>16</a></td>
-            <td><a>17</a></td>
-            <td><a>18</a></td>
-            <td><a>19</a></td>
-            <td><a>20</a></td>
+            <td><a href="./part1/11.js">11</a></td>
+            <td><a href="./part1/12.js">12</a></td>
+            <td><a href="./part1/13.js">13</a></td>
+            <td><a href="./part1/14.js">14</a></td>
+            <td><a href="./part1/15.js">15</a></td>
+            <td><a href="./part1/16.js">16</a></td>
+            <td><a href="./part1/17.js">17</a></td>
+            <td><a href="./part1/18.js">18</a></td>
+            <td><a href="./part1/19.js">19</a></td>
+            <td><a href="./part1/20.js">20</a></td>
         </tr>
         <tr align="center">
-            <td><a>21</a></td>
-            <td><a>22</a></td>
-            <td><a>23</a></td>
-            <td><a>24</a></td>
-            <td><a>25</a></td>
+            <td><a href="./part1/21.js">21</a></td>
+            <td><a href="./part1/21.js">22</a></td>
+            <td><a href="./part1/21.js">23</a></td>
+            <td><a href="./part1/21.js">24</a></td>
+            <td><a href="./part1/21.js">25</a></td>
             <td><a>26</a></td>
             <td><a>27</a></td>
             <td><a>28</a></td>

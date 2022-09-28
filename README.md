@@ -45,22 +45,22 @@
             <td><a href="./part1/21.js">23</a></td>
             <td><a href="./part1/21.js">24</a></td>
             <td><a href="./part1/21.js">25</a></td>
-            <td><a>26</a></td>
-            <td><a>27</a></td>
-            <td><a>28</a></td>
-            <td><a>29</a></td>
-            <td><a>30</a></td>
+            <td><a href="./part1/26.js">26</a></td>
+            <td><a href="./part1/27.js">27</a></td>
+            <td><a href="./part1/28.js">28</a></td>
+            <td><a href="./part1/29.js">29</a></td>
+            <td><a href="./part1/30.js">30</a></td>
         </tr>
         <tr align="center">
-            <td><a>31</a></td>
-            <td><a>32</a></td>
-            <td><a>33</a></td>
-            <td><a>34</a></td>
-            <td><a>35</a></td>
-            <td><a>36</a></td>
-            <td><a>37</a></td>
-            <td><a>38</a></td>
-            <td><a>39</a></td>
+            <td><a href="./part1/31.js">31</a></td>
+            <td><a href="./part1/32.js">32</a></td>
+            <td><a href="./part1/33.js">33</a></td>
+            <td><a href="./part1/34.js">34</a></td>
+            <td><a href="./part1/35.js">35</a></td>
+            <td><a href="./part1/36.js">36</a></td>
+            <td><a href="./part1/37.js">37</a></td>
+            <td><a href="./part1/38.js">38</a></td>
+            <td><a href="./part1/39.js">39</a></td>
             <td><a>40</a></td>
         </tr>
         <tr align="center">

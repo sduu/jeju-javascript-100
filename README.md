@@ -61,19 +61,19 @@
             <td><a href="./part1/37.js">37</a></td>
             <td><a href="./part1/38.js">38</a></td>
             <td><a href="./part1/39.js">39</a></td>
-            <td><a>40</a></td>
+            <td><a href="./part1/40.js">40</a></td>
         </tr>
         <tr align="center">
-            <td><a>41</a></td>
-            <td><a>42</a></td>
-            <td><a>43</a></td>
-            <td><a>44</a></td>
-            <td><a>45</a></td>
-            <td><a>46</a></td>
-            <td><a>47</a></td>
-            <td><a>48</a></td>
-            <td><a>49</a></td>
-            <td><a>50</a></td>
+            <td><a href="./part1/41.js">41</a></td>
+            <td><a href="./part1/42.js">42</a></td>
+            <td><a href="./part1/43.js">43</a></td>
+            <td><a href="./part1/44.js">44</a></td>
+            <td><a href="./part1/45.js">45</a></td>
+            <td><a href="./part1/46.js">46</a></td>
+            <td><a href="./part1/47.js">47</a></td>
+            <td><a href="./part1/48.js">48</a></td>
+            <td><a href="./part1/49.js">49</a></td>
+            <td><a href="./part1/50.js">50</a></td>
         </tr>
     </tbody>
     <thead align="left">

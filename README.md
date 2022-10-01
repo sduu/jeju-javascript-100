@@ -83,10 +83,10 @@
     </thead>
     <tbody>
         <tr align="center">
-            <td><a>51</a></td>
-            <td><a>52</a></td>
-            <td><a>53</a></td>
-            <td><a>54</a></td>
+            <td><a href="./part2/51.js">51</a></td>
+            <td><a href="./part2/52.js">52</a></td>
+            <td><a href="./part2/53.js">53</a></td>
+            <td><a href="./part2/54.js">54</a></td>
             <td><a>55</a></td>
             <td><a>56</a></td>
             <td><a>57</a></td>

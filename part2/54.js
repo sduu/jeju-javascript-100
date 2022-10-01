@@ -19,10 +19,7 @@ YES
 NO
 ``` */
 
-const input = prompt('숫자를 공백으로 구분하여 입력하세요')
-    .split(' ')
-    .map(Number)
-    .sort((a, b) => b - a);
+const input = prompt('숫자를 공백으로 구분하여 입력하세요').split(' ').map(Number);
 
 function checkStamp(num) {
     num.sort((a, b) => a - b);

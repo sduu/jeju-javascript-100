@@ -87,9 +87,9 @@
             <td><a href="./part2/52.js">52</a></td>
             <td><a href="./part2/53.js">53</a></td>
             <td><a href="./part2/54.js">54</a></td>
-            <td><a>55</a></td>
-            <td><a>56</a></td>
-            <td><a>57</a></td>
+            <td><a href="./part2/55.js">55</a></td>
+            <td><a href="./part2/56.js">56</a></td>
+            <td><a href="./part2/57.js">57</a></td>
             <td><a>58</a></td>
             <td><a>59</a></td>
             <td><a>60</a></td>

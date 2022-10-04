@@ -90,9 +90,9 @@
             <td><a href="./part2/55.js">55</a></td>
             <td><a href="./part2/56.js">56</a></td>
             <td><a href="./part2/57.js">57</a></td>
-            <td><a>58</a></td>
-            <td><a>59</a></td>
-            <td><a>60</a></td>
+            <td><a href="./part2/58.js">58</a></td>
+            <td><a href="./part2/59.js">59</a></td>
+            <td><a href="./part2/60.js">60</a></td>
         </tr>
         <tr align="center">
             <td><a>61</a></td>

@@ -95,9 +95,9 @@
             <td><a href="./part2/60.js">60</a></td>
         </tr>
         <tr align="center">
-            <td><a>61</a></td>
-            <td><a>62</a></td>
-            <td><a>63</a></td>
+            <td><a href="./part2/61.js">61</a></td>
+            <td><a href="./part2/62.js">62</a></td>
+            <td><a href="./part2/63.js">63</a></td>
             <td><a>64</a></td>
             <td><a>65</a></td>
             <td><a>66</a></td>

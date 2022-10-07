@@ -98,11 +98,11 @@
             <td><a href="./part2/61.js">61</a></td>
             <td><a href="./part2/62.js">62</a></td>
             <td><a href="./part2/63.js">63</a></td>
-            <td><a>64</a></td>
-            <td><a>65</a></td>
-            <td><a>66</a></td>
-            <td><a>67</a></td>
-            <td><a>68</a></td>
+            <td><a href="./part2/64.js">64</a></td>
+            <td><a href="./part2/65.js">65</a></td>
+            <td><a href="./part2/66.js">66</a></td>
+            <td><a href="./part2/67.js">67</a></td>
+            <td><a href="./part2/68.js">68</a></td>
             <td><a>69</a></td>
             <td><a>70</a></td>
         </tr>

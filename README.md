@@ -103,13 +103,13 @@
             <td><a href="./part2/66.js">66</a></td>
             <td><a href="./part2/67.js">67</a></td>
             <td><a href="./part2/68.js">68</a></td>
-            <td><a>69</a></td>
-            <td><a>70</a></td>
+            <td><a href="./part2/69_골드바흐의 추측.js">69</a></td>
+            <td><a href="./part2/70.js">70</a></td>
         </tr>
         <tr align="center">
-            <td><a>71</a></td>
-            <td><a>72</a></td>
-            <td><a>73</a></td>
+            <td><a href="./part2/71_깊이_우선_탐색.js">71</a></td>
+            <td><a href="./part2/72_너비_우선_탐색.js">72</a></td>
+            <td><a href="./part2/73_최단_경로_찾기.js">73</a></td>
             <td><a>74</a></td>
             <td><a>75</a></td>
             <td><a>76</a></td>
